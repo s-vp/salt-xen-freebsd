@@ -1,4 +1,4 @@
-Salt state for Xen Dom0 configuration on top of FreeBSD 11
+Salt state to run Xen Dom0 on FreeBSD 11
 ====
   
 [FreeBSD wiki reference](https://wiki.freebsd.org/Xen)
